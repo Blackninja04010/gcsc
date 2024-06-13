@@ -1,6 +1,8 @@
 # Server Info
 
-Java
+
+## Java
+
   IP: GCSC.minehut.gg
   
   Native Version: 1.19.4
@@ -14,7 +16,8 @@ Java
   ViaRewind Status: Not Installed
 
 
-Discord
+## Discord
+
   Owner: Blackninja04010 (blackninja04010)
   
   Invite Link: https://discord.gg/2x8MnTQQVn
