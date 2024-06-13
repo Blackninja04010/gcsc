@@ -4,7 +4,9 @@ Java
   IP: GCSC.minehut.gg
   Native Version: 1.19.4
 
+
   ViaVersion Status: Enabled
+  
   ViaBackwards Status: Not Installed
   ViaRewind Status: Not Installed
 
