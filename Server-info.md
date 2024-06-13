@@ -7,13 +7,11 @@
   
   Native Version: 1.19.4
 
-
-
-  ViaVersion Status: Enabled
+    ViaVersion Status: Enabled
   
-  ViaBackwards Status: Not Installed
+    ViaBackwards Status: Not Installed
   
-  ViaRewind Status: Not Installed
+    ViaRewind Status: Not Installed
 
 
 ## Discord
