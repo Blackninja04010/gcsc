@@ -1,2 +1,2 @@
-# gcsc
-Lots of information on GCSC
+# GCSC
+This GitHub repository will have lots of information on GCSC
