@@ -5,3 +5,6 @@ This GitHub repository will have lots of information on GCSC
 [How to join the server and some other info related to joining it](Server-info-joining.md)
 
 [The Changelog of the server](Versions.md)
+
+## Playing
+[A list of generators and their drops](generators.md)
