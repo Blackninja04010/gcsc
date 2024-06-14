@@ -22,4 +22,4 @@
 
 ## Location
 
-[Area 3](location/area_3.md)
+[Area 3](location/area_3.md) on the right side, near the top (use the vines to get up to it)

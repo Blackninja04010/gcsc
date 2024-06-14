@@ -22,4 +22,4 @@
 
 ## Location
 
-[Area 3](location/area_3.md)
+[Area 3](location/area_3.md) on the left side, you will need the [Feather](item/feather.md) to get to it

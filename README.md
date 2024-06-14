@@ -8,3 +8,5 @@ This GitHub repository will have lots of information on GCSC
 
 ## Playing
 [A list of generators and their drops](generators.md)
+
+[Here's a list of (most) of the items in the game](items.md)

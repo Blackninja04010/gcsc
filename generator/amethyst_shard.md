@@ -20,4 +20,4 @@
 
 ## Location
 
-[Area 4](location/area_4.md)
+[Area 4](location/area_4.md), on the parkour on the right side
