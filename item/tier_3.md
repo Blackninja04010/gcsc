@@ -4,10 +4,12 @@
 
 ### Stone Axe
 Price: $25k
+
 Location: Shop > Weapons > Axes > Stone Axe
 
 ### Stone Sword
-Price: $
-Location:
+Price: $5K
 
-## Chain Armour
+Location: Shop > Weapons > Swords > Stone Sword
+
+## Chain Armor

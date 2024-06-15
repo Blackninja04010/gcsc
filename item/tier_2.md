@@ -4,8 +4,10 @@
 
 ### Golden Axe
 Price: $5k
+
 Location: Shop > Weapons > Axes > Gold Axe
 
 ### Golden Sword
-Price: $
-Location: 
+Price: $2.5k
+
+Location: Shop > Weapons > Swords > Golden Sword

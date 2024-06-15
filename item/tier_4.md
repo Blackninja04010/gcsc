@@ -4,10 +4,12 @@
 
 ### Iron Axe
 Price: $50k
+
 Location: Shop > Weapons > Axes > Iron Axe
 
 ### Iron Sword
-Price: $
-Location:
+Price: $50k
+
+Location: Shop > Weapons > Swords > Iron Sword
 
 ## Iron Armor
