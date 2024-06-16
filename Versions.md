@@ -4,7 +4,6 @@
 
 ## V2 versions
 - [Version 2.4](versions/v2.4.md)
-- [Version 2.3.5](versions/v2.3.5.md)
 - [Version 2.3.4](versions/v2.3.4.md)
 - [Version 2.3.3](versions/v2.3.3.md)
 - [Version 2.3.2](versions/v2.3.2.md)

@@ -14,14 +14,18 @@ Date: 6/14/24-
 - [x] Revamped `areas.sk`, also now (temporarily) called `areas-2.sk`
 - [x] Revamped `secrets.sk`, also now (temporarily) called `secrets-2.sk`
 - [x] Revamped `combat.sk`, also added `combatlog.sk` to `combat.sk`
+- [ ] Revamped `shopgui.sk`
 - [ ] Revamped `crates.sk` and added the mythical crate
 - [ ] Revamped `levels.sk` and added a refresh function
 
+- [x] Deleted obsolete files
 
 - [x] `combat.sk` updated with the new vars
 - [x] `scoreboard.sk` updated with the new vars
-- [ ] `shopgui.sk` updated with the new vars
-- [ ] **Variable reset**
+- [x] `shopgui.sk` updated with the new vars
+- [x] **Variable reset**
+
+- temporarily disabled the levelup menu due to me not being able to get the revamped version to work (*yet*)
 
 ### Plugin
 
@@ -37,6 +41,7 @@ Date: 6/14/24-
 {rank.secrets_s::%player's uuid%} > {rank.secret-suffix::%player's uuid%}
 
 {area.perm::%player's uuid%::number} > {area.perm::%player's uuid%}
+{forest.entry.purchased::%player's uuid%} > {area.forest.purchased::%player's uuid%}
 
 {fishing.multi::%player's uuid%} > {multiplier.fishing::%player's uuid%}
 {trade.multi::%player's uuid%} > {multiplier.tradeshop::%player's uuid%}
