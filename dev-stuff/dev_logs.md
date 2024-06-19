@@ -10,6 +10,7 @@ Date: 6/14/24-
 - [x] Moved the *kills*, *deaths*, *kill streak*, and *kill ratio* from `stats.sk` to `combat.sk`
 - [x] Moved the *fishing* section from `stats.sk` to `fishing.sk`
 - [x] Moved the *tradeshop*, *fishing*, *crate* multiplier variables to `stats.sk`
+- [x] Moved the mc-dc joining messages from `bot.sk` into `chatcore.sk`
 
 - [x] Revamped `areas.sk`, also now (temporarily) called `areas-2.sk`
 - [x] Revamped `secrets.sk`, also now (temporarily) called `secrets-2.sk`
@@ -29,7 +30,7 @@ Date: 6/14/24-
 - [ ] Redo `ranks.sk`
 - [ ] Redo `events.sk`
 - [ ] Redo `/warp` inside of either `commands.sk` or `areas.sk`
-
+- [ ] Change ChatLogs to go to `chatlogs/%player's name%`
 
 - [x] Deleted `blockcore.sk`
 - [x] Deleted other obsolete files
@@ -38,7 +39,8 @@ Date: 6/14/24-
 - [x] `scoreboard.sk` updated with the new vars
 - [x] `shopgui.sk` updated with the new vars
 - [x] fix the chat filter (*may not work, it's untested*)
-- [x] **Variable reset**
+- [x] **Variable Reset**
+- [ ] **Variable Reset** - reset the vars after the default version of v2.4 is out
 
 - temporarily disabled the levelup menu due to me not being able to get the revamped version to work (*yet*)
 
@@ -47,7 +49,8 @@ Date: 6/14/24-
 - Updated Skript from 2.8.5 to 2.8.7
 - Updated PlaceHolderAPI from 2.11.5 to 2.11.6
 - Updated SkBee from 3.5.0 to 3.5.4
-- Updated WorldEdit from 7.2.14 to 7.3.3
+- ~~Updated WorldEdit from 7.2.14 to 7.3.3~~
+- Downgraded WorldEdit from 7.3.3 to 7.2.20 due to 7.3.3 not supporting 1.19.4
 - Updated ViaVersion from 4.10.2 to 5.0.0
 - Added ChatEvents (by meep)
 

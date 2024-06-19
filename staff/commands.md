@@ -20,9 +20,15 @@ structure: /admin <text> <text> <text> <player> <number>
 
 commands
 
-/admin gui - opens the admin panel (sk.admin.1)
-/admin variable reset economy [player] - resets the economy variables for that player (sk.admin.3)
-/admin key [add/remove/set] [common/uncommon/rare/epic/legendary/mythical] [player] [amount] - adds/removes/sets the amount of crate keys that player has for that rarity (sk.admin.3)
-/admin info [reload_alerts/toggles/other] - gives information on the status of some variables (mainly used for debugging) (sk.admin.2)
-/admin broadcast [kickall/restart] [confirm] [sender] [time] - broadcasts to the server that a kickall/restart will be happening in `[time]` minutes (this doesn't work if `[time]` is below 1) (sk.admin.3)
+/admin gui - opens the admin panel (i might remove this) (sk.admin.1)
+
+/admin variable [reset] [variable] [player] - resets [player]'s [variable] variables (sk.admin.3)
+
+/admin key [operation] [rarity] [player] [amount] - changes the amount of the keys for specified rarity that player has (sk.admin.3)
+
+/admin info [type] - gives information on the status of certain variables (mainly used for debugging) (sk.admin.2)
+
+/admin broadcast [type] [time] - does the admin broadcast for [type] with a timer of [time] minutes (sk.admin.3)
+
+
 /admin [teleport/tp] [area name]

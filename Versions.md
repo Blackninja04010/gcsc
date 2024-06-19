@@ -18,6 +18,7 @@
 - [Version 2.0.2](versions/v2.0.2.md)
 - [Version 2.0.1](versions/v2.0.1.md)
 - [Version 2](versions/v2.md)
+- [Version 2 Betas](versions/v2_beta.md)
 
 ## V1 versions
 - [Version 1.5](versions/v1.5.md)
