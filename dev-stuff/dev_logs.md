@@ -96,6 +96,9 @@ Date: 6/14/24-
 {charms.purchased.Undead_Damage_boost::%player's uuid%} >
 {charms.purchased.Health_Boost::%player's uuid%} >
 {charms.purchased.Deflection::%player's uuid%} >
+{charms.purchased.%charm name%::%player's uuid%} > {charm.%charm name%::%player's uuid%} - true if the player has purchased it
+{charms.level.%charm name%::%player's uuid%} > {charm.level.%charm name%::%player's uuid%} - the level of the charm for that player
+
 
 - New/deleted Variables
 

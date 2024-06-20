@@ -23,3 +23,14 @@ format:
 
 - **Area 4**
 - `lime wool` `amethyst shard` `location(-4, -34, -129, world("world"))`
+
+- **Nether Area 1**
+- `xxxxx` `xxxxx` `location(-15, 30, 0, world("world_nether"))`
+
+
+Area 1: Wood > Wood, Cobblestone > Cobblestone, Iron > Iron
+Area 2: Redstone Dust > Coal
+Area 3: Gold Nugget > xxxxx, Gold Ingot > xxxxx
+Area 4: Amethyst Shard > xxxxx
+Heaven: Sugar > xxxxxx, Quartz >
+Nether Area 1: xxxxx > xxxxx
