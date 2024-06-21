@@ -53,6 +53,7 @@ Date: 6/14/24-
 - Downgraded WorldEdit from 7.3.3 to 7.2.20 due to 7.3.3 not supporting 1.19.4
 - Updated ViaVersion from 4.10.2 to 5.0.0
 - Added ChatEvents (by meep)
+- Added ProtocolLib 5.2.0
 
 ### Var changes
 - Variable changes:
